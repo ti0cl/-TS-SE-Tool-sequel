@@ -4,13 +4,13 @@ Truck Simulator Save Editor Tool
 ## Description
 Small tool for editing save files of Euro Truck Simulator 2 and American Truck Simulator.
 
-# Version Support ETS2/ATS
+## Version Support ETS2/ATS
 v1.60
 
 ## OS Recommended
 Windows x64
 
-### Dependence
+## Dependence
 .NET Framework 4.7.2
 
 ## You can:
