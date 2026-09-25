@@ -5,7 +5,7 @@ Truck Simulator Save Editor Tool
 Small tool for editing save files of Euro Truck Simulator 2 and American Truck Simulator.
 
 ## Version Support ETS2/ATS
-v1.60
+v1.61
 
 ## OS Recommended
 Windows x64
